@@ -1,0 +1,3 @@
+export type role = "admin" | "user";
+
+export type tipo_fornecedor = "importador" | "fabricante" | "parceiro";
